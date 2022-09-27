@@ -3,9 +3,10 @@ package helloWorld;
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		//prints hello worldf
+		//prints hello world
 		System.out.println("Hello world");
 		
+		//prints out 0-9
 		for (int i = 0; i < 10; i ++) {
 			System.out.println(i);
 		}
